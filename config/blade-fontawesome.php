@@ -1,9 +1,7 @@
 <?php
 
 return [
-
     'brands' => [
-
         'prefix' => 'fab',
 
         'fallback' => '',
@@ -14,11 +12,9 @@ return [
             'width' => 50,
             'height' => 50,
         ],
-
     ],
 
     'regular' => [
-
         'prefix' => 'far',
 
         'fallback' => '',
@@ -29,11 +25,9 @@ return [
             'width' => 50,
             'height' => 50,
         ],
-
     ],
 
     'solid' => [
-
         'prefix' => 'fas',
 
         'fallback' => '',
@@ -44,7 +38,6 @@ return [
             // 'width' => 50,
             // 'height' => 50,
         ],
-
     ],
 
     /*
@@ -60,7 +53,6 @@ return [
     */
 
     'duotone' => [
-
         'prefix' => 'fad',
 
         'fallback' => '',
@@ -71,11 +63,9 @@ return [
             // 'width' => 50,
             // 'height' => 50,
         ],
-
     ],
 
     'light' => [
-
         'prefix' => 'fal',
 
         'fallback' => '',
@@ -86,11 +76,9 @@ return [
             // 'width' => 50,
             // 'height' => 50,
         ],
-
     ],
 
     'thin' => [
-
         'prefix' => 'fat',
 
         'fallback' => '',
@@ -101,11 +89,9 @@ return [
             'width' => 10,
             'height' => 10,
         ],
-
     ],
 
     'sharp' => [
-
         'prefix' => 'fash',
 
         'fallback' => '',
@@ -116,7 +102,5 @@ return [
             // 'width' => 50,
             // 'height' => 50,
         ],
-
     ],
-
 ];
